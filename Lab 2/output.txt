@@ -1,0 +1,13 @@
+Part 1
+100001010
+0
+
+
+Part 2
+first offspring: 100001001
+Second offspring: 010000001
+
+
+Part 3
+Selected: 010000001
+Penalty: -2
